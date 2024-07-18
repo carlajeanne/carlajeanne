@@ -36,6 +36,6 @@ I am a third-year BS Computer Engineering student specializing in Big Data at th
 
 <!-- stats -->
 <div align="center">
-   <img alt="Carla Jeanne's Github Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=irishmicoletcando&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=true&icon_color=528AAE"/></a>
+   <img alt="Carla Jeanne's Github Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=carlajeanne&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=true&icon_color=528AAE"/></a>
    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=carlajeanne&hide_border=true&show_icons=true&currStreakNum=FFFFFF&sideNums=FFFFFF&border=true&currStreakLabel=FFFFFF&background=0D1117&sideLabels=FFFFFF&dates=58A6FF" />
 </div>
