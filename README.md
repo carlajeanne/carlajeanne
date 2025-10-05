@@ -20,7 +20,7 @@
 </div> 
 
 ### 🤓 Who?
-I am a third-year BS Computer Engineering student specializing in Big Data at the Polytechnic University of the Philippines, aspiring to become a data analyst. In my free time, I enjoy playing cozy games, taking online courses, or working on projects related to the topics I'm currently learning, particularly in data analysis.
+I am a BS Computer Engineering graduate with specialization in Big Data at the Polytechnic University of the Philippines. In my free time, I enjoy playing cozy games, taking online courses, or working on projects related to the topics I'm currently learning, particularly in machine learning and AI.
 
 ### 💻 Languages and Tools
 <div align="center">
